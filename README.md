@@ -14,7 +14,7 @@
         <sup>2</sup>Zhejiang University
 </p>
 
-**O3N** is the first purely visual, end-to-end framework for **omnidirectional open-vocabulary 3D occupancy prediction**. It enables autonomous agents and embodied AI systems to reconstruct and semantically understand full 360° scenes in open-world environments, without being limited by fixed vocabularies or narrow field-of-view inputs.
+**O3N** is the first purely visual, end-to-end framework for **omnidirectional open-vocabulary occupancy prediction**. It enables autonomous agents and embodied AI systems to reconstruct and semantically understand full 360° scenes in open-world environments, without being limited by fixed vocabularies or narrow field-of-view inputs.
 
 ## 🎥 Teaser
 <div align="center">
@@ -22,7 +22,7 @@
 </div>
 
 ## 📰 News
-- **03/12/2026**: Repository initialized! Please watch this repo for updates. Thank you for your interest in our work!
+- **03/12/2026**: Repository initialized. Please watch this repo for updates. Thank you for your interest in our work!
 
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
