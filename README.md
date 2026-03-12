@@ -30,7 +30,7 @@
 
 ## 📰 News
 
-- **03/13/2026**: Repository initialized! Please watch this repo for updates. Thank you for your interest in our work!
+- **03/12/2026**: Repository initialized! Please watch this repo for updates. Thank you for your interest in our work!
 
 ---
 
