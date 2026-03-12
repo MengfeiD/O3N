@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://scholar.google.com/citations?user=amFy9D8AAAAJ">Mengfei Duan</a><sup>1*</sup>,
     <a href="https://scholar.google.com/citations?user=0EI9msQAAAAJ">Hao Shi</a><sup>2*</sup>,
-    <a href="https://scholar.google.com/citations?user=9A9B_u0AAAAJ">Fei Teng</a><sup>1*</sup>,
+    <a href="https://scholar.google.com/citations?user=9A9B_u0AAAAJ">Fei Teng</a><sup>1</sup>,
     <a href="https://github.com/SXDR">Guoqiang Zhao</a><sup>1</sup>,
     <a href="https://github.com/7uHeng">Yuheng Zhang</a><sup>1</sup>,
     <a href="http://robotics.hnu.edu.cn/info/1176/2960.htm">Zhiyong Li</a><sup>1†</sup>,
