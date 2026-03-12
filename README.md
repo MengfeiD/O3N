@@ -24,6 +24,10 @@
 ## 📰 News
 - **03/12/2026**: Repository initialized. Please watch this repo for updates. Thank you for your interest in our work!
 
+## 🙏 Acknowledgement
+This project builds upon several outstanding open-source projects. We gratefully acknowledge the following key contributions.
+- [MonoScene](https://github.com/astra-vision/MonoScene), [SGN](https://github.com/Jieqianyu/SGN), [OVO](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy), [OneOcc](https://github.com/MasterHow/OneOcc), [Spatial-Mamba](https://github.com/EdwardChasel/Spatial-Mamba).
+
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
 Thanks a lot :)
