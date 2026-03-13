@@ -14,6 +14,8 @@
         <sup>2</sup>Zhejiang University
 </p>
 
+## O3N [[PDF]](https://arxiv.org/pdf/2603.12144)
+
 **O3N** is the first purely visual, end-to-end framework for **omnidirectional open-vocabulary occupancy prediction**. It enables autonomous agents and embodied AI systems to reconstruct and semantically understand full 360° scenes in open-world environments, without being limited by fixed vocabularies or narrow field-of-view inputs.
 
 ## 🎥 Teaser
@@ -35,7 +37,7 @@ Thanks a lot :)
 @article{duan2026o3n,
   title={O3N: Omnidirectional Open-Vocabulary Occupancy Prediction},
   author={Mengfei Duan and Hao Shi and Fei Teng and Guoqiang Zhao and Yuheng Zhang and Zhiyong Li and Kailun Yang},
-  journal={arXiv preprint arXiv:2603},
+  journal={arXiv preprint arXiv:2603.12144},
   year={2026}
 }
 ```
