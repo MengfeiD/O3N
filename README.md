@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"><strong>O3N: Omnidirectional Open-Vocabulary Occupancy Prediction</strong></h1>
+<h1 align="center"><strong>O3N: Omnidirectional Open-Vocabulary Occupancy Prediction for Urban Autonomous Agents</strong></h1>
 
 <p align="center">
     <a href="https://scholar.google.com/citations?user=amFy9D8AAAAJ">Mengfei Duan</a><sup>1*</sup>,
