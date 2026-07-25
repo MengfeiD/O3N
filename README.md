@@ -35,7 +35,7 @@ Please consider referencing this paper if you use the ```code``` or ```data``` f
 Thanks a lot :)
 ```
 @article{duan2026o3n,
-  title={O3N: Omnidirectional Open-Vocabulary Occupancy Prediction},
+  title={O3N: Omnidirectional Open-Vocabulary Occupancy Prediction for Urban Autonomous Agents},
   author={Mengfei Duan and Hao Shi and Fei Teng and Guoqiang Zhao and Yuheng Zhang and Zhiyong Li and Kailun Yang},
   journal={arXiv preprint arXiv:2603.12144},
   year={2026}
